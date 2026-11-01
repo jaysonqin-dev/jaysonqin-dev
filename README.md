@@ -13,7 +13,7 @@ My own agent is in daily use, and I don't call an agent done until it has an eva
 | [agent-playbook](https://github.com/jaysonqin-dev/agent-playbook) | An evaluation harness that diffs two runs to show what a change fixed and what it broke, a weekly monitor, and the lessons behind them. |
 | [agent-tool-safety](https://github.com/jaysonqin-dev/agent-tool-safety) | Safe writes for tool-using agents: risk tiers, dry-run, approval bound to the exact plan, tamper-evident audit log, undo. |
 | [extraction-agent-demo](https://github.com/jaysonqin-dev/extraction-agent-demo) | A parity gate for swapping the model behind a document-extraction step, with a cost model for the decision. |
-| [bookmark-organizer](https://github.com/jaysonqin-dev/bookmark-organizer) | Marksly: a Chrome extension that finds misfiled bookmarks with an 8 MB on-device model. [Live demo](https://jaysonqin-dev.github.io/lab/marksly/organizer.html). |
+| [bookmark-organizer](https://github.com/jaysonqin-dev/bookmark-organizer) | Marksly: a Chrome extension that finds misfiled bookmarks with an 8 MB on-device model. [Live demo](https://jaysonqin-dev.github.io/lab/marksly-demo.html). |
 
 ## Try it in the browser
 
